@@ -1,8 +1,8 @@
 {
   "name": "couponbd",
   "version": "0.9.3",
-  "description": "Responsive ecommerce template built with Vue.js and Nuxt.js",
-  "author": "ivan lori <ivan.lori@protonmail.com>",
+  "description": "Spend Less Buy More",
+  "author": "Tamzeed Hossain <ZeedTanue@gmail.com>",
   "scripts": {
     "dev": "nuxt",
     "production": "nuxt build",
